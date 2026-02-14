@@ -1,6 +1,5 @@
 # Collaboration Test
 
-This is a test to learn how pushing works.
+Content from main.
 
-Added by: YOUR_NAME
-# cli-tools
+Content from new-branch.
