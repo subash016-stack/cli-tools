@@ -1,0 +1,17 @@
+# config.yaml
+
+app:
+  name: DemoApp
+  version: 1.0
+  environment: development
+
+database:
+  host: localhost
+  port: 5432
+  username: admin
+  password: secret123
+
+features:
+  login: true
+  signup: true
+  payments: false
